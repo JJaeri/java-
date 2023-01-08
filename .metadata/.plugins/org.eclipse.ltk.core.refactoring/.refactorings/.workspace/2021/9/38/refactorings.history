@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;02-2변수란무엇일까&apos;" deleteContents="false" description="Delete resource &apos;02-2변수란무엇일까&apos;" element1="/02-2변수란무엇일까" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1631512944661"/>
+</session>
