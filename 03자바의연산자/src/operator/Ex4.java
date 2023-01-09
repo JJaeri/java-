@@ -16,3 +16,4 @@ public class Ex4 {
 		System.out.println(isEven);
 	}
 }
+
